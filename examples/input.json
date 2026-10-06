@@ -1,0 +1,13 @@
+{
+  "countries": [
+    "US",
+    "GB"
+  ],
+  "sortBy": [
+    "for_you",
+    "ctr"
+  ],
+  "periodDays": "7",
+  "includeDetails": true,
+  "maxItems": 50
+}
